@@ -5,10 +5,10 @@ import Button from "./components/button";
 
 function App() {
   return (
-    <div>
+    <main>
       <h1>UIKit React Component Library</h1>
       <Button>Click me</Button>
-    </div>
+    </main>
   );
 }
 
