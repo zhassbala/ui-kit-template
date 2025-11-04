@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+*.log
+.env
+
+# Warning: Don't add `dist` folder to .gitignore - it's needed for the build output!
