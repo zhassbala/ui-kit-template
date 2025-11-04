@@ -20,9 +20,10 @@
   "exports": {
     ".": {
       "import": "./dist/index.js",
+      "require": "./dist/index.js",
       "types": "./dist/types/index.d.ts"
     },
-    "./types": "./dist/types/index.d.ts"
+    "./*": "./dist/*"
   },
   "dependencies": {
     "react": "^17.0.0 || ^18.0.0",
