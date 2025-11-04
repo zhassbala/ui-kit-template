@@ -6,7 +6,7 @@
   "author": "Rassul Bessimbekov",
   "license": "ISC",
   "main": "dist/index.js",
-  "types": "dist/types/index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "npx tsc && npx rollup -c",
